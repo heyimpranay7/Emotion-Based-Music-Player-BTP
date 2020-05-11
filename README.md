@@ -27,7 +27,7 @@ When emotion is detected, you can see the name of the emotion in the terminal op
 
 
 Note: You can see the images on which assumption of emotion is made in the images folder. 
-I advise u to train the model in your pc and then use it(I case you are using any new or updated dataset).
+I advise u to train the model(Update_model.py) in your pc and then use it(I case you are using any new or updated dataset).
 
 
 
