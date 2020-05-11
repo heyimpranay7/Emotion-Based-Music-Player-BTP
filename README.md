@@ -1,5 +1,5 @@
 # Emotion-Based-Music-Player-BTP
-This project was made by our teams for BTP 7th Semester.
+This project was made by our team for BTP 7th Semester.
 
 Emotion-Based-music-player 
 It's music player with chrome as front-End which has the capablity to detect emotions from the face of user with the help of machine learning algorithm.
